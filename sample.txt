@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 echo "test"
 echo "second commit"
 echo "thrid commit"
+=======
+echo "Updated on the git hub using browser"
+>>>>>>> 626e44e2dd538b4144326062a95d94aff42f7978
